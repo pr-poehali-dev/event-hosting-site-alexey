@@ -7,8 +7,8 @@ const ContactSection = () => {
     {
       icon: "Phone",
       title: "Телефон",
-      content: "+7 (999) 123-45-67",
-      action: "tel:+79991234567",
+      content: "+7 (906) 006 77 81",
+      action: "tel:+79060067781",
     },
     {
       icon: "Mail",
