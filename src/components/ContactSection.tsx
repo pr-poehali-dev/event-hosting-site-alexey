@@ -25,8 +25,8 @@ const ContactSection = () => {
     {
       icon: "Instagram",
       title: "Instagram",
-      content: "@alex_almazny",
-      action: "https://instagram.com/alex_almazny",
+      content: "@AlmaznyMC",
+      action: "https://instagram.com/AlmaznyMC",
     },
   ];
 
